@@ -1,0 +1,15 @@
+{
+  "name": "ceaser_cipher",
+  "version": "1.0.0",
+  "description": "encryption&decryption",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Savchuk Andrii",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "requirejs": "^2.3.6"
+  }
+}
